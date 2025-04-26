@@ -1,10 +1,11 @@
 <a name="readme-top"></a>
 
+# Proxy
+
 <div align="center">
-  <p align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-foxy-proxy-can-help-transactional-nps-scores-much-cormac-murphy&psig=AOvVaw3GdW0sYrEwcoiALW0lR4Oq&ust=1745758171138000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjNwZTe9YwDFQAAAAAdAAAAABAE">
-  </p>
-  
+  <img src="https://example.com/your-image.png" alt="Proxy Logo" width="200"/>
+</div>
+
   <p align="center">
     <strong>proXXy</strong> is a powerful tool designed for acquiring and managing a vast quantity of proxies. It is used to gather, organize, and procure HTTP/S, SOCKS4, and SOCKS5 proxies. They can be used for web scraping, penetration testing, bypassing censorship, and many other tasks!
   </p>
