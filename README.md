@@ -2,7 +2,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=70&duration=1500&pause=4000&color=946df7&center=true&vCenter=true&width=1000&height=150&lines=<|————— proXXy —————|>" alt="proXXy typing out"/>
+    <img src="https://www.google.com/search?q=prOXy+word+art&sca_esv=9373e67870ea7967&udm=2&biw=1536&bih=782&sxsrf=AHTn8zq2KMdLYJ5TRmpdwRoQdPxqI-MpsA%3A1745671756719&ei=TNYMaJ3YK5-LnesPtf2ysAs&ved=0ahUKEwidrtCH3vWMAxWfRWcHHbW-DLYQ4dUDCBE&uact=5&oq=prOXy+word+art&gs_lp=EgNpbWciDnByT1h5IHdvcmQgYXJ0SMoiUABY-h1wAHgAkAEAmAHUAaAB6g6qAQUwLjguMrgBA8gBAPgBAZgCCKACrAzCAgcQIxgnGMkCwgIIEAAYgAQYsQPCAg4QABiABBixAxiDARiKBcICCxAAGIAEGLEDGIMBwgIFEAAYgATCAgYQABgKGB7CAgQQABgewgIGEAAYCBgemAMAkgcFMC42LjKgB8AnsgcFMC42LjK4B6wM&sclient=img#vhid=umof0tumYhsdBM&vssid=mosaic"/>
   </p>
   
   <p align="center">
