@@ -2,7 +2,7 @@
 
 <div align="center">
   <p align="center">
-    <img src=""https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-foxy-proxy-can-help-transactional-nps-scores-much-cormac-murphy&psig=AOvVaw3GdW0sYrEwcoiALW0lR4Oq&ust=1745758171138000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjNwZTe9YwDFQAAAAAdAAAAABAE/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-foxy-proxy-can-help-transactional-nps-scores-much-cormac-murphy&psig=AOvVaw3GdW0sYrEwcoiALW0lR4Oq&ust=1745758171138000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjNwZTe9YwDFQAAAAAdAAAAABAE">
   </p>
   
   <p align="center">
