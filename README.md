@@ -2,7 +2,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://www.google.com/search?q=prOXy+word+art&sca_esv=9373e67870ea7967&udm=2&biw=1536&bih=782&sxsrf=AHTn8zq2KMdLYJ5TRmpdwRoQdPxqI-MpsA%3A1745671756719&ei=TNYMaJ3YK5-LnesPtf2ysAs&ved=0ahUKEwidrtCH3vWMAxWfRWcHHbW-DLYQ4dUDCBE&uact=5&oq=prOXy+word+art&gs_lp=EgNpbWciDnByT1h5IHdvcmQgYXJ0SMoiUABY-h1wAHgAkAEAmAHUAaAB6g6qAQUwLjguMrgBA8gBAPgBAZgCCKACrAzCAgcQIxgnGMkCwgIIEAAYgAQYsQPCAg4QABiABBixAxiDARiKBcICCxAAGIAEGLEDGIMBwgIFEAAYgATCAgYQABgKGB7CAgQQABgewgIGEAAYCBgemAMAkgcFMC42LjKgB8AnsgcFMC42LjK4B6wM&sclient=img#vhid=umof0tumYhsdBM&vssid=mosaic"/>
+    <img src=""https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-foxy-proxy-can-help-transactional-nps-scores-much-cormac-murphy&psig=AOvVaw3GdW0sYrEwcoiALW0lR4Oq&ust=1745758171138000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjNwZTe9YwDFQAAAAAdAAAAABAE/>
   </p>
   
   <p align="center">
