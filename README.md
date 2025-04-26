@@ -3,7 +3,7 @@
 # Proxy
 
 <div align="center">
-  <img src="https://example.com/your-image.png" alt="Proxy Logo" width="200"/>
+  >
 </div>
 
   <p align="center">
