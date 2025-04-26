@@ -110,11 +110,6 @@ options:
 
 Need help and can't get it to run correctly? Open an issue or contact me [here](https://solanaceae.xyz/).
 
-## Sponsorship
-
-If you like what I do, buy me boba so I can continue developing this tool and others!
-[Ko-Fi](https://ko-fi.com/solanaceae)
-
 ## Changelog
 
 [Release v2.6](https://github.com/0xSolanaceae/proXXy/releases/tag/v2.6)
