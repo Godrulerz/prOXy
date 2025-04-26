@@ -25,7 +25,7 @@
 - Clone the repository:
 
 ```bash
-git clone https://github.com/Atropa-Solanaceae/proXXy.git
+git clone https://github.com/Godrulerz/prOXy
 ```
 
 - Navigate to project directory:
@@ -108,12 +108,8 @@ options:
 
 ## Support
 
-Need help and can't get it to run correctly? Open an issue or contact me [here](https://solanaceae.xyz/).
+Need help and can't get it to run correctly? Open an issue or contact me [here](ashishashish.ak56@gmail.com).
 
-## Changelog
-
-[Release v2.6](https://github.com/0xSolanaceae/proXXy/releases/tag/v2.6)
-- Full changelog: https://github.com/0xSolanaceae/proXXy/compare/v2.5...v2.6
 
 ---
 
